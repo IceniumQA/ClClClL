@@ -1,0 +1,38 @@
+{
+  "ProjectName": "tabzs",
+  "ProjectGuid": "fe8e1a21-41e1-42bb-adad-56fed3cf6d26",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.tabzs",
+  "DisplayName": "tabzs",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{249a30f6-69ef-482c-845a-5991d04a718f}",
+  "WP8ProductID": "{d6b0b6ef-0844-4492-8f84-2f9032606806}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
